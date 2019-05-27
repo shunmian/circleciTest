@@ -1,0 +1,22 @@
+{
+  "name": "circlecitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunmian/circleciTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shunmian/circleciTest/issues"
+  },
+  "homepage": "https://github.com/shunmian/circleciTest#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
